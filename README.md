@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm DaniKa</h1>
-<h3 align="center">A backend developer from Russian</h3>
-
 <p align="left">
 </p>
 
